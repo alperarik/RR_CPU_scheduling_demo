@@ -1,4 +1,4 @@
-# RR_CPU_scheduling_demo
+# Round Robin CPU Scheduling Demo
 Round robin cpu scheduling
 
 Example problem
